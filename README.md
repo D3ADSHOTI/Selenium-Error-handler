@@ -74,4 +74,4 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <hr>
 <br>
 
-<img src="https://camo.githubusercontent.com/ab086b15a2fd234d41e03ed89525599abe27422a76e33f781988589ae5ba2434/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d78736f6c3035267468656d653d7261646963616c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=D3ADSHOTI&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ADSHOTI)](https://github.com/anuraghazra/github-readme-stats)
