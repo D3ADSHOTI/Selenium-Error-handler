@@ -42,10 +42,10 @@
 
 <h2 class="heading-element" dir="auto">🤝 Connect with me:</h2>
 <p align="left" dir="auto">
-<a href="https://twitter.com/Aura_Text" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://instagram.com/_.j0ps" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://discord.com/" rel="nofollow"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://discord.com/" rel="nofollow"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/474/large_2x/reddit-logo-reddit-icon-transparent-free-png.png" alt="iamavgail._" height="50" width="60" style="max-width: 100%;"></a>
+<a href="https://twitter.com/ID3AD_SHOTI" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/d3ad_shot1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://discordapp.com/users/d3ad_shot/" rel="nofollow"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.reddit.com/user/D3AD_SHOTI/" rel="nofollow"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/474/large_2x/reddit-logo-reddit-icon-transparent-free-png.png" alt="iamavgail._" height="50" width="60" style="max-width: 100%;"></a>
 <a href="https://stackoverflow.com/users/15102993/d3ad-shot" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png" alt="iamavgail._" height="40" width="50" style="max-width: 100%;"></a>
 </p>
 <br>
