@@ -15,7 +15,7 @@
       <a href="https://www.youtube.com/c/fknight" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;" src="https://camo.githubusercontent.com/2aa7552edc3e1410c672c6a189a93b40a9e4a83ace5048953eec34d06977cda8/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669352e706e673f763d33" border="0" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://storage.ko-fi.com/cdn/kofi5.png?v=3">
       <a href="https://github.com/ForrestKnight?tab=repositories&amp;sort=stargazers">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/da2304822545e238cc0ad9d67070f98bd09f49bb0c1532ee094095842f14cc5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532336637643130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;"></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" data-canonical-src="" style="max-width: 100%;"></a> 
       <a href="https://www.youtube.com/c/fknight" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;" 
    </p>
