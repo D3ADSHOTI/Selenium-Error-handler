@@ -10,11 +10,11 @@
 <p dir="auto"><strong><code>I'm D3AD_SHOT (Developer/Gamer)</code></strong></p>
 <p dir="auto">Hello World! I'm a developer I guess.. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></p>
    <p align="left" dir="auto">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" rel="nofollow">
+      <a href="https://www.buymeacoffee.com/d3ad_shot" rel="nofollow">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/da2304822545e238cc0ad9d67070f98bd09f49bb0c1532ee094095842f14cc5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532336637643130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;"></a> 
       <a href="" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;" src="https://camo.githubusercontent.com/2aa7552edc3e1410c672c6a189a93b40a9e4a83ace5048953eec34d06977cda8/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669352e706e673f763d33" border="0" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://storage.ko-fi.com/cdn/kofi5.png?v=3">
-      <a href="https://www.buymeacoffee.com/d3ad_shot">
+      <a href="https://twitter.com/ID3AD_SHOTI">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/1c016ee974901abaa4b4ab3015794d9dddd096404489f2bb1eea1a5060ee5400/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333034303430342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 10%;"></a> 
       <a href="" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;"
