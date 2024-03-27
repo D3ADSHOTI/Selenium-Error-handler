@@ -17,7 +17,7 @@
       <a href="https://github.com/ForrestKnight?tab=repositories&amp;sort=stargazers">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" data-canonical-src="" style="max-width: 100%;"></a> 
       <a href="https://www.youtube.com/c/fknight" rel="nofollow">
-<img height="36" style="height: 29px; max-width: 100%;" 
+<img height="36" style="height: 29px; max-width: 50%;" 
    </p>
 <hr>
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🧰 Languages and Tools</h3><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🧰 Languages and Tools" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
