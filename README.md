@@ -44,6 +44,7 @@
 <p align="left" dir="auto">
 <a href="https://twitter.com/Aura_Text" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://instagram.com/_.j0ps" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/_.j0ps" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 <br>
 
