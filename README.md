@@ -36,19 +36,3 @@ href="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54
 href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"><img align="left" alt="Linux" width="30px" src="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
 <br>
-
-<p dir="auto">I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "<a href="https://youtube.com/fknight" rel="nofollow">ForrestKnight</a>" to more than 400k subscribers.</p>
-   <p align="left" dir="auto">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" rel="nofollow">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/da2304822545e238cc0ad9d67070f98bd09f49bb0c1532ee094095842f14cc5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532336637643130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;"></a> 
-      <a href="https://www.youtube.com/c/fknight" rel="nofollow">
-<img height="36" style="height: 29px; max-width: 100%;" src="https://camo.githubusercontent.com/2aa7552edc3e1410c672c6a189a93b40a9e4a83ace5048953eec34d06977cda8/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669352e706e673f763d33" border="0" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://storage.ko-fi.com/cdn/kofi5.png?v=3">
-      <a href="https://github.com/ForrestKnight?tab=repositories&amp;sort=stargazers">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/1c016ee974901abaa4b4ab3015794d9dddd096404489f2bb1eea1a5060ee5400/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333034303430342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 10%;"></a> 
-      <a href="https://www.youtube.com/c/fknight" rel="nofollow">
-<img height="36" style="height: 29px; max-width: 100%;"
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" data-canonical-src="" style="max-width: 10%;"></a> 
-      <a href="https://www.youtube.com/c/fknight" rel="nofollow">
-<img height="36" style="height: 29px; max-width: 100%;"
-   </p>
-<hr>
