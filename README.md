@@ -37,6 +37,11 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
 <br>
 
-<p dir="bottom"></p>
+<p dir="auto"></p>
    <p align="left" dir="auto">
+         <img alt="youtube subscribers" title="" src="" data-canonical-src="" style="max-width: 10%;"></a> 
+      <a href="" rel="nofollow">
+<img height="36" style="height: 29px; max-width: 100%;"
    </p>
+<hr>
+
