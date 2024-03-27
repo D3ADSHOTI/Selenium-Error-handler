@@ -1,4 +1,19 @@
 # Selenium-Error-handler
 Multi-window Selenium project built with Selenium, threading &amp; pyautogui.
 
-https://camo.githubusercontent.com/2aa7552edc3e1410c672c6a189a93b40a9e4a83ace5048953eec34d06977cda8/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669352e706e673f763d33
+# 📺 What is Youtility?
+"Hey, are you lonely?"
+
+"Hot Milfs 5kms near you"
+
+"Kylie (22F) wants to meet you"
+
+
+If you've ever tried to download YouTube videos online, I'm pretty sure that you're familiar with the above messages. Well, your saviour(me lol) is here. Meet Youtility, a YouTube downloader with NO ads or bloats, and open source :). With Youtility, say goodbye to enduring those pesky, dodgy ads while downloading YouTube videos. It's your ticket to hassle-free downloads without the BS of intrusive advertisements.
+
+You can download
+
+Single videos with captions file
+Playlists (also as audio-only files)
+Video to Mp3
+Individual caption files
