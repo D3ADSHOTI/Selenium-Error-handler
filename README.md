@@ -1,3 +1,13 @@
+![2f7b4ec7c96eebb031e27ec5fd9cf2a9f768493e](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/66cac648-1334-459a-839d-71aa12a74d5e)
+![3111acb1e5c8fc483cd54896598b691cb68b89b8](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/b418328b-67aa-4d01-9996-ed1a1df225f2)
+![98d87dda63510be0e2585fdfc88724b84f8ef683](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/d79e260a-d191-46b6-9ff3-afb3aa28aef4)
+![2f7b4ec7c96eebb031e27ec5fd9cf2a9f768493e](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/7dfbcbd9-9432-406b-8c64-b0ca311b261e)
+# _
+![1bf56538922327affbf754a4eebf2a0f4fe3fca4](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/6b267f8f-9d61-4a6e-a0fc-8d4c6ed79917)
+![b2007be0805409526984ec4bca2e5ab7dfe3fb0f](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/9888b6b0-8f6c-4e97-9335-d24f65da2911)
+![5abaef112eb2a7964b239cb472a384520dad07d0](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/a10ae1a5-eb96-4cf8-b6a9-2abf5f97e571)
+![53c441b6ac4cc845ef2d17d4cd53253f97f33964](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/b9842c2d-67c1-4d53-b591-599999ba6226)
+
 <p dir="auto"><strong><code>Digital Craftsman (Developer/Filmmaker/Creator)</code></strong></p>
 <p dir="auto">I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "<a href="https://youtube.com/fknight" rel="nofollow">ForrestKnight</a>" to more than 400k subscribers.</p>
    <p align="left" dir="auto">
