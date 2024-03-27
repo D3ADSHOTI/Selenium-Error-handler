@@ -34,7 +34,7 @@
 </ul>
 
 <br>
-<h2 class="heading-element" dir="auto">👋🏻 Featured Projects</h2>
+<h2 class="heading-element" dir="auto">⛏️ Featured Projects</h2>
 <ol dir="auto">
 <li><a href="https://github.com/D3ADSHOTI/Selenium-Error-handler/tree/main">Selenium-Error-Handler</a> : Selenium project with multi-window interaction.</li>
 </ol>
