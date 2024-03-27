@@ -37,7 +37,7 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
 <br>
 
-<p dir="auto">I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "<a href="https://youtube.com/fknight" rel="nofollow">ForrestKnight</a>" to more than 400k subscribers.</p>
+<p dir="auto"></p>
    <p align="left" dir="auto">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" rel="nofollow">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/da2304822545e238cc0ad9d67070f98bd09f49bb0c1532ee094095842f14cc5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532336637643130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;"></a> 
