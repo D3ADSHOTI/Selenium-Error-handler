@@ -55,6 +55,7 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <img height="36" style="height: 29px; max-width: 100%;"
    </p>
 <hr>
+<br>
 
 <h2 class="heading-element" dir="auto">🤝 Connect with me:</h2>
 <p align="left" dir="auto">
