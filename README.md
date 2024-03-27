@@ -37,7 +37,7 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
 <br>
 
-<p dir="auto"></p>
+<p dir="bottom"></p>
    <p align="left" dir="auto">
    </p>
 <hr>
