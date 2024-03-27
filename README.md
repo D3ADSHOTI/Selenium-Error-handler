@@ -30,7 +30,7 @@
 <li>🌱 I’m currently learning Python, HTML and CSS (Extreme beginner level))</li>
 <li>💬 Ask me about Python (Selenium, Tkinter, etc)</li>
 <li>📫 How to reach me: <a href="dwaynebarnard18@gmail.com">Dwaynebarnard18@gmail.com</a></li>
-<li>🧑🏼‍💻 Hire me by sending me an email, thank you</li>
+<li>🧑🏼‍💻 Hire me by sending me an email</li>
 </ul>
 
 <br>
