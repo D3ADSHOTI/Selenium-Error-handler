@@ -47,12 +47,5 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 
 <h2 class="heading-element" dir="auto">👋🏻 Featured Projects</h2>
 <ol dir="auto">
-<li><a href="https://github.com/rohankishore/Aura-Text">Aura Text</a> : IDE made with PyQt6 and QScintilla</li>
-<li><a href="https://github.com/rohankishore/Youtility">Youtility</a>: Youtube video/playlist downloader with a modern fluent design and options to download audio/subtitles</li>
-<li><a href="https://github.com/rohankishore/ZenNotes">ZenNotes</a>: Notepad alternative with TTS, Translations, etc</li>
-<li><a href="https://github.com/rohankishore/Spotifyte">Spotifyte</a>: Spotify track/playlist downloader with a modern fluent design</li>
-<li><a href="https://github.com/rohankishore/CashFlow">CashFlow</a>: Finance manager app with Expense and Income tracking</li>
-<li><a href="https://github.com/rohankishore/AnimeSnap">AnimeSnap</a>: Get details of an Anime like the episode, timestamp, etc from just its Screenshot</li>
-<li><a href="https://github.com/rohankishore/cvGen">cvGen</a> : CV Generator using PyQt6 and Python. Create beautiful CVs easily</li>
-<li><a href="https://github.com/rohankishore/Graphyte">Graphyte</a> : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib</li>
+<li><a href="https://github.com/D3ADSHOTI/Selenium-Error-handler/tree/main">Selenium-Error-Handler</a> : Selenium project with multi-window interaction.</li>
 </ol>
