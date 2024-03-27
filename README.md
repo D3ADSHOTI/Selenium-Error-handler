@@ -39,16 +39,5 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 
 <p dir="auto"></p>
    <p align="left" dir="auto">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" rel="nofollow">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="" data-canonical-src="" style="max-width: 100%;"></a> 
-      <a href="https://www.youtube.com/c/fknight" rel="nofollow">
-<img height="36" style="height: 29px; max-width: 100%;" src="" border="0" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://storage.ko-fi.com/cdn/kofi5.png?v=3">
-      <a href="https://github.com/ForrestKnight?tab=repositories&amp;sort=stargazers">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="" data-canonical-src="" style="max-width: 10%;"></a> 
-      <a href="https://www.youtube.com/c/fknight" rel="nofollow">
-<img height="36" style="height: 29px; max-width: 100%;"
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" data-canonical-src="" style="max-width: 10%;"></a> 
-      <a href="https://www.youtube.com/c/fknight" rel="nofollow">
-<img height="36" style="height: 29px; max-width: 100%;"
    </p>
 <hr>
