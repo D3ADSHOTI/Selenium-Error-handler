@@ -1,3 +1,7 @@
+YouTube video and playlist downloader made with PyQt6 and PyTube. Download Now
+
+Buy Me a Coffee at ko-fi.com Github all releases
+
 # Selenium-Error-handler
 Multi-window Selenium project built with Selenium, threading &amp; pyautogui.
 
