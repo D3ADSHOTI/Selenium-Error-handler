@@ -57,12 +57,6 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <hr>
 <br>
 
-<br>
-<h2 class="heading-element" dir="auto">👋🏻 Featured Projects</h2>
-<ol dir="auto">
-<li><a href="https://github.com/D3ADSHOTI/Selenium-Error-handler/tree/main">Selenium-Error-Handler</a> : Selenium project with multi-window interaction.</li>
-</ol>
-
 <h2 class="heading-element" dir="auto">🤝 Connect with me:</h2>
 <p align="left" dir="auto">
 <a href="https://twitter.com/Aura_Text" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" style="max-width: 100%;"></a>
