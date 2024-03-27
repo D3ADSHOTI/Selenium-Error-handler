@@ -48,13 +48,6 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
 <br>
 
-<br>
-<h2 class="heading-element" dir="auto">👋🏻 Featured Projects</h2>
-<ol dir="auto">
-<li><a href="https://github.com/D3ADSHOTI/Selenium-Error-handler/tree/main">Selenium-Error-Handler</a> : Selenium project with multi-window interaction.</li>
-</ol>
-<br>
-
 <p dir="auto"></p>
    <p align="left" dir="auto">
          <img alt="" title="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" data-canonical-src="" style="max-width: 10%;"></a> 
