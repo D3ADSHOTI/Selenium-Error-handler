@@ -18,7 +18,7 @@
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/1c016ee974901abaa4b4ab3015794d9dddd096404489f2bb1eea1a5060ee5400/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333034303430342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d58266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 10%;"></a> 
       <a href="https://www.youtube.com/c/fknight" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;"
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="" data-canonical-src="" style="max-width: 10%;"></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" data-canonical-src="" style="max-width: 10%;"></a> 
       <a href="https://www.youtube.com/c/fknight" rel="nofollow">
 <img height="36" style="height: 29px; max-width: 100%;"
    </p>
