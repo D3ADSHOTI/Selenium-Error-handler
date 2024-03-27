@@ -43,7 +43,7 @@ href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b186
    </p>
 <hr>
 
-<h2 class="heading-element" dir="auto">👋🏻 More About Me</h2>
+<h2 class="heading-element" dir="auto">🧑🏻‍💻 Featured Projects</h2>
 <ol dir="auto">
 <li><a href="https://github.com/rohankishore/Aura-Text">Aura Text</a> : IDE made with PyQt6 and QScintilla</li>
 <li><a href="https://github.com/rohankishore/Youtility">Youtility</a>: Youtube video/playlist downloader with a modern fluent design and options to download audio/subtitles</li>
