@@ -7,7 +7,7 @@
 ![5abaef112eb2a7964b239cb472a384520dad07d0](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/a10ae1a5-eb96-4cf8-b6a9-2abf5f97e571)
 ![53c441b6ac4cc845ef2d17d4cd53253f97f33964](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/b9842c2d-67c1-4d53-b591-599999ba6226)
 
-<p dir="auto"><strong><code>Hi, I'm D3AD_SHOT (Developer/Gamer)</code></strong></p>
+<p dir="auto"><strong><code>D3AD_SHOT (Developer/Gamer)</code></strong></p>
 <p dir="auto">Hello World! I'm a developer I guess.. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></p>
    <p align="left" dir="auto">
       <a href="https://www.youtube.com/watch?v=vO5h-9Ibmck" rel="nofollow">
