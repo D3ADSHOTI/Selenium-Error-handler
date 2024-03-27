@@ -7,8 +7,8 @@
 ![5abaef112eb2a7964b239cb472a384520dad07d0](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/a10ae1a5-eb96-4cf8-b6a9-2abf5f97e571)
 ![53c441b6ac4cc845ef2d17d4cd53253f97f33964](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/b9842c2d-67c1-4d53-b591-599999ba6226)
 
-<p dir="auto"><strong><code>Digital Craftsman (Developer/Filmmaker/Creator)</code></strong></p>
-<p dir="auto">Hello World! I'm a developer.. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></p>
+<p dir="auto"><strong><code>Me (Developer/Gamer)</code></strong></p>
+<p dir="auto">Hello World! I'm a developer I guess.. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Checkout my <a href="https://github.com/D3ADSHOTI?tab=repositories" rel="nofollow">Repositories.</a></p>
    <p align="left" dir="auto">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" rel="nofollow">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/da2304822545e238cc0ad9d67070f98bd09f49bb0c1532ee094095842f14cc5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532336637643130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="" style="max-width: 100%;"></a> 
