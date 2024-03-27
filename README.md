@@ -45,7 +45,7 @@
 <a href="https://twitter.com/Aura_Text" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://instagram.com/_.j0ps" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://discord.com/" rel="nofollow"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://discord.com/" rel="nofollow"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/474/large_2x/reddit-logo-reddit-icon-transparent-free-png.png" alt="iamavgail._" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://discord.com/" rel="nofollow"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/474/large_2x/reddit-logo-reddit-icon-transparent-free-png.png" alt="iamavgail._" height="30" width="80" style="max-width: 100%;"></a>
 </p>
 <br>
 
