@@ -21,6 +21,5 @@
 <p dir="auto"><strong>Copyright © 2001-2023 Python Software Foundation. All rights reserved.</strong></p>
 <p dir="auto">Python software and documentation are licensed under the <a href="https://docs.python.org/3/license.html#psf-license" rel="nofollow">PSF License Agreement</a>.</p>
 <p dir="auto">Starting with <code>Python 3.8.6</code>, examples, recipes, and other code in the Python documentation are dual licensed under the <a href="https://docs.python.org/3/license.html#psf-license" rel="nofollow">PSF License Agreement</a> and the <a href="https://docs.python.org/3/license.html#zero-clause-bsd-license-for-code-in-the-python-release-documentation" rel="nofollow">Zero-Clause BSD license</a>.</p>
-<p dir="auto">Some software incorporated into Python is under different licenses. The licenses are listed with code falling under that license. See <a href="https://docs.python.org/3/license.html#otherlicenses" rel="nofollow">Licenses and Acknowledgements for Incorporated Software</a> for an incomplete list of these licenses.</p>
-<h2>
+<p dir="auto">Some software incorporated into Python is under different licenses. The licenses are listed with code falling under that license. See <a href="https://docs.python.org/3/license.html#otherlicenses" rel="nofollow">Licenses and Acknowledgements for Incorporated Software</a> for an incomplete list of these licenses.</p><h2>
 <p dir="auto">This repository uses the <a href="/exercism/python/blob/main/LICENSE">MIT License</a>.</p>
