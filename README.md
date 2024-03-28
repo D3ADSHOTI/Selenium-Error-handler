@@ -1,6 +1,6 @@
 ![1681865077493](https://github.com/D3ADSHOTI/Selenium-Error-handler/assets/76398764/726092cd-64ce-4d0f-abbd-bae9ca79a8bd)
 
-#⚠️ Important notice
+⚠️ Important notice
 
 <ul dir="auto">
 <li>user login tests (correct / incorrect login and password)</li>
